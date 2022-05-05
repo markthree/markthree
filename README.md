@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title)](https://github.com/markthree?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markthree&layout=compact&theme=dark)](https://github.com/markthree/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markthree&layout=compact&theme=prussian)](https://github.com/markthree/github-readme-stats)
 
 <br />
 
