@@ -1,11 +1,20 @@
 一个喜欢听萨克斯的男人 🎷
 
+<br />
+
+### my skills 🦕
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs)
+
+<br />
 
 ### status 🐳
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title)](https://github.com/markthree?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markthree&layout=compact&theme=prussian)](https://github.com/markthree?tab=repositories)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markthree&layout=compact&theme=prussian" alt="Top Stats" align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title" alt="Top Languages">
+
 
 <br />
 
