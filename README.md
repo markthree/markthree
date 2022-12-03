@@ -9,18 +9,10 @@
 <br />
 
 ### status 🐳
-
-
-<div style="{ display: 'flex' }">
-<a href="https://github.com/markthree?tab=repositories" style="{ 'margin-right': '5px' }">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markthree&layout=compact&theme=prussian" alt="Top Languages" align="left">
-<a/>
-  
-  
+ 
 <a href="https://github.com/markthree?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title" alt="Status" href="https://github.com/markthree?tab=repositories" style="{ width: '100%' }">
+  <img src="https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title" alt="Status" href="https://github.com/markthree?tab=repositories">
 <a/>
-</div>
 
 
 <br />
