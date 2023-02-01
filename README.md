@@ -1,24 +1,20 @@
-一个喜欢听萨克斯的男人 🎷
+### Stack 🥱
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,deno,go,wasm,nuxtjs,vue,vite&theme=light)
 
 <br />
 
-### my skills 🦕
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs)
-
-<br />
-
-### status 🐳
+### Status 🫣
  
 <a href="https://github.com/markthree?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&theme=prussian&include_all_commits=true&hide_title" alt="Status" href="https://github.com/markthree?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=markthree&show_icons=true&include_all_commits=true&count_private=true" alt="Status" href="https://github.com/markthree?tab=repositories">
 <a/>
 
 
 <br />
 <br />
 
-### organization 🦖
+### Organization 🫡
 
 帝莎编程学院 
 
